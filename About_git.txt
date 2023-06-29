@@ -1,0 +1,21 @@
+git -- version 
+git config --global user.name "hein thura tun"
+git config -- global user.email "trozonice1998@gmail.com"
+#commit
+
+1.id
+2.date/time
+3.author name/email
+4.title
+
+#run git init to use git
+#git status( red/green/nth to commit)
+
+#if red -> git add .
+             -> git commit -m "commit title"
+#if green- > git commit -m "commit title"
+
+git log to check commit 
+git checkout id to change commit
+git checkout (id that you want to change)
+git checkout master(to change last status)
