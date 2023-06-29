@@ -19,3 +19,11 @@ git log to check commit
 git checkout id to change commit
 git checkout (id that you want to change)
 git checkout master(to change last status)
+
+git branch emp
+git branch jobs
+git branch
+
+git remote
+git remote add remotename https://repo-link 
+git remote add origin https://github.com/PhyoMinHein123aetegaewrawe12321
